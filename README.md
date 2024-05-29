@@ -1,2 +1,2 @@
-# KotlinPractiice
+# KotlinPractice
 Practice for kotlin
